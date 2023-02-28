@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  val-wordpress:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-28T16:15:53.538237013+02:00"
+    description: A Helm chart to manage my webapp on Kubernetes
+    digest: 499379c2b94c17f6d1874bd3ea46eaa0dfdb7d21764b9746e2c22bdecb7e3fca
+    name: val-wordpress
+    type: application
+    urls:
+    - val-wordpress-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-28T16:15:53.538009958+02:00"
